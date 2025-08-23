@@ -50,9 +50,14 @@ img {
 .Foundations {
   font-size: 16px;
   font-weight: 800px;
-  color: hsl(47, 88%, 63%);
+  color: black;
   font-weight: 800;
   font-family: "figtree";
+}
+
+.Foundations:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
 }
 
 .Languages {
